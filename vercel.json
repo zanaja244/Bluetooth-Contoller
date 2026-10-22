@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "name": "Robot-Contoller",
+    "cleanUrls": true,
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
+        }
+    ]
+}
